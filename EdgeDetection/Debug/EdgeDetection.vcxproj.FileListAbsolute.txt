@@ -1,0 +1,2 @@
+C:\Users\pujit\Downloads\ImageProcessing_cpp\EdgeDetection\Debug\EdgeDetection.exe
+C:\Users\pujit\Downloads\ImageProcessing_cpp\EdgeDetection\Debug\EdgeDetection.pdb

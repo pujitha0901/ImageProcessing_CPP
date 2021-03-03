@@ -1,0 +1,2 @@
+C:\Users\pujit\Downloads\ImageProcessing_cpp\SaltAndPepperNoise\Debug\SaltAndPepperNoise.exe
+C:\Users\pujit\Downloads\ImageProcessing_cpp\SaltAndPepperNoise\Debug\SaltAndPepperNoise.pdb

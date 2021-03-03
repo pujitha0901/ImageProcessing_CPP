@@ -1,0 +1,6 @@
+﻿  HighPassFilter.cpp
+  Source.cpp
+C:\Users\pujit\Downloads\ImageProcessing_cpp\HighPassFilter\Source.cpp(292,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pujit\Downloads\ImageProcessing_cpp\HighPassFilter\Source.cpp(293,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  HighPassFilter.vcxproj -> C:\Users\pujit\Downloads\ImageProcessing_cpp\HighPassFilter\Debug\HighPassFilter.exe

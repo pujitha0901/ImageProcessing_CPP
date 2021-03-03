@@ -1,0 +1,6 @@
+﻿  MinimumFilter.cpp
+  Source.cpp
+C:\Users\pujit\Downloads\ImageProcessing_cpp\MinimumFilter\Source.cpp(291,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pujit\Downloads\ImageProcessing_cpp\MinimumFilter\Source.cpp(292,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  MinimumFilter.vcxproj -> C:\Users\pujit\Downloads\ImageProcessing_cpp\MinimumFilter\Debug\MinimumFilter.exe

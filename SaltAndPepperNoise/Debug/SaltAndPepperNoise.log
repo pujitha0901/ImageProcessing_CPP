@@ -1,0 +1,4 @@
+﻿  SaltAndPepperNoise.cpp
+C:\Users\pujit\Downloads\ImageProcessing_cpp\SaltAndPepperNoise\SaltAndPepperNoise.cpp(32,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pujit\Downloads\ImageProcessing_cpp\SaltAndPepperNoise\SaltAndPepperNoise.cpp(13,19): warning C4101: 'imgOutBuffer': unreferenced local variable
+  SaltAndPepperNoise.vcxproj -> C:\Users\pujit\Downloads\ImageProcessing_cpp\SaltAndPepperNoise\Debug\SaltAndPepperNoise.exe
